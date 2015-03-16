@@ -1,0 +1,19 @@
+{
+  "fullname": "John Ronald Reuel Tolkien",
+  "id": 2,
+  "biography": "John Ronald Reuel Tolkien, CBE FRSL was an English writer, poet, philologist, and university professor who is best known as the author of the classic high-fantasy works The Hobbit, The Lord of the Rings, and The Silmarillion.",
+  "books": [
+    {
+      "id": 4,
+      "title": "The Lord of the Rings"
+    },
+    {
+      "id": 5,
+      "title": "The Hobbit, Or, There and Back Again"
+    },
+    {
+      "id": 6,
+      "title": "The Silmarillion"
+    }
+  ]
+}

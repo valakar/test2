@@ -1,0 +1,28 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      <div class="col-md-12">
+        <p class="text-center">Total number of books: {{books.length}}</p>
+        <div class="table-responsive" ng-show="books.length">
+          <table id="mytable" class="table table-bordred table-striped">
+                 
+            <thead>
+             
+              <th>Title</th>
+              <th>Author(s)</th>
+
+            </thead>
+            <tbody>
+      
+              <tr ng-repeat="book in books">
+                <td><a href="#/books/book-detail/{{book.id}}">{{book.title}}</a></td>
+                <td><span ng-repeat="author in book.authors"><a href="#/authors/author-detail/{{author.id}}">{{author.name}}</a>{{$last ? '' : ', '}}</span></td>
+              </tr>
+            </tbody>
+                    
+          </table>                
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

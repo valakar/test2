@@ -1,0 +1,11 @@
+{
+  "fullname": "Boris Strugatsky",
+  "id": 3,
+  "biography": "Born April 14, 1933, Boris Natanovich Strugatsky remained in Leningrad with his mother during the siege of the city during World War II. He graduated from high school in 1950 and applied to the physics department at Leningrad State University, but studied astronomy instead.",
+  "books": [
+    {
+      "id": 7,
+      "title": "Roadside Picnic"
+    }
+  ]
+}

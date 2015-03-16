@@ -1,0 +1,21 @@
+{
+  "title": "The Hobbit, Or, There and Back Again",
+  "authors": [
+    {
+      "id": 2,
+      "name": "J. R. R. Tolkien"
+    }
+  ],
+  "id": 5,
+  "genres": [
+    {
+      "id": 1,
+      "name": "Fantasy"
+    },
+    {
+      "id": 4,
+      "name": "Adventure"
+    }
+  ],
+  "summary": "This deluxe hardcover edition of J.R.R. Tolkien's classic prelude to his Lord of the Rings trilogy contains a short introduction by Christopher Tolkien, a reset text incorporating the most up-to-date corrections, and all of Tolkien's own drawings and full-color illustrations, including the rare “Mirkwood” piece. J.R.R. Tolkien's own description for the original edition: \"If you care for journeys there and back, out of the comfortable Western world, over the edge of the Wild, and home again, and can take an interest in a humble hero (blessed with a little wisdom and a little courage and considerable good luck), here is a record of such a journey and such a traveler.\""
+}

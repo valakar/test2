@@ -1,0 +1,19 @@
+{
+  "fullname": "Joanne \"Jo\" Rowling",
+  "id": 1,
+  "biography": "Joanne 'Jo' Rowling, OBE FRSL, pen names J. K. Rowling and Robert Galbraith, is a British novelist best known as the author of the Harry Potter fantasy series.",
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter and the Philosopher's Stone"
+    },
+    {
+      "id": 2,
+      "title": "Harry Potter and the Deathly Hallows"
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter and the Order of the Phoenix"
+    }
+  ]
+}

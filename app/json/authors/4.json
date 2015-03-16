@@ -1,0 +1,11 @@
+{
+  "fullname": "Arkady Strugatsky",
+  "id": 4,
+  "biography": "Arkady Natanovich Strugatsky was born August 25, 1925 in Batumi; The family later moved to Leningrad. In January 1942, Arkady and his father left the besieged city, but Arkady was the only survivor in his train car; his father died upon reaching Vologda.",
+  "books": [
+    {
+      "id": 7,
+      "title": "Roadside Picnic"
+    }
+  ]
+}

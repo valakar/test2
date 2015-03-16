@@ -1,0 +1,21 @@
+{
+  "title": "Roadside Picnic",
+  "authors": [
+    {
+      "id": 3,
+      "name": "Boris Strugatsky"
+    },
+    {
+      "id": 4,
+      "name": "Arkady Strugatsky"
+    }
+  ],
+  "id": 7,
+  "genres": [
+    {
+      "id": 5,
+      "name": "Science Fiction"
+    }
+  ],
+  "summary": "Roadside Picnic is a short science fiction novel written by Arkady and Boris Strugatsky in 1971. By 1998, 38 editions of the novel were published in 20 countries. The novel was first translated to English by Antonina W. Bouis."
+}

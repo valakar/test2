@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "authors": [
+      {
+        "id": 1,
+        "name": "J.K. Rowling"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "authors": [
+      {
+        "id": 1,
+        "name": "J.K. Rowling"
+      }
+    ],
+    "id": 2
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "authors": [
+      {
+        "id": 1,
+        "name": "J.K. Rowling"
+      }
+    ],
+    "id": 3
+  },
+  {
+    "title": "The Lord of the Rings",
+    "authors": [
+      {
+        "id": 2,
+        "name": "J. R. R. Tolkien"
+      }
+    ],
+    "id": 4
+  },
+  {
+    "title": "The Hobbit, Or, There and Back Again",
+    "authors": [
+      {
+        "id": 2,
+        "name": "J. R. R. Tolkien"
+      }
+    ],
+    "id": 5
+  },
+  {
+    "title": "The Silmarillion",
+    "authors": [
+      {
+        "id": 2,
+        "name": "J. R. R. Tolkien"
+      }
+    ],
+    "id": 6
+  },
+  {
+    "title": "Roadside Picnic",
+    "authors": [
+      {
+        "id": 3,
+        "name": "Boris Strugatsky"
+      },
+      {
+        "id": 4,
+        "name": "Arkady Strugatsky"
+      }
+    ],
+    "id": 7
+  }
+]

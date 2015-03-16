@@ -1,0 +1,21 @@
+{
+  "title": "The Lord of the Rings",
+  "authors": [
+    {
+      "id": 2,
+      "name": "J. R. R. Tolkien"
+    }
+  ],
+  "id": 4,
+  "genres": [
+    {
+      "id": 1,
+      "name": "Fantasy"
+    },
+    {
+      "id": 4,
+      "name": "Adventure"
+    }
+  ],
+  "summary": "All three parts of the epic masterpiece The Lord of the Rings – The Fellowship of the Ring, The Two Towers & The Return of the King – available as one download, featuring the definitive edition of the text, hyperlinked footnotes and page references, and 3 maps including a detailed map of Middle-earth."
+}

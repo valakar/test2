@@ -1,0 +1,21 @@
+{
+  "title": "Harry Potter and the Philosopher's Stone",
+  "authors": [
+    {
+      "id": 1,
+      "name": "J.K. Rowling"
+    }
+  ],
+  "id": 1,
+  "genres": [
+    {
+      "id": 1,
+      "name": "Fantasy"
+    },
+    {
+      "id": 2,
+      "name": "Magic"
+    }
+  ],
+  "summary": "Harry Potter thinks he is an ordinary boy. He lives with Uncle Vernon, Aunt Petunia and his cousin Dudley, who make him sleep in a cupboard under the stairs. Then Harry starts receiving mysterious letters and his life is changed for ever. He is whisked away by a beetle-eyed giant of a man and enrolled in Hogwarts School of Witchcraft and Wizardry. The reason: Harry Potter is a wizard!"
+}
